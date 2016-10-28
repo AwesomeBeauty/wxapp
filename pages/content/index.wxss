@@ -1,0 +1,46 @@
+.icon{
+    width:500rpx;
+    height: 300rpx;
+    background: url("../../image/github.png");
+    margin-top:-120rpx;
+}
+.container{
+    width:750rpx;
+    background: #f9f9f9;
+    /*border: 1rpx solid black;*/
+}
+.sign_in{
+    width:500rpx;
+    /*border: 5rpx solid #d8dee2;*/
+    /*margin-top: -10rpx;*/
+    /*border-radius: 15rpx; */
+    padding: 40rpx;
+}
+.input_username{
+    border: 5rpx solid #d8dee2;
+    height: 50rpx;
+    padding: 5rpx;
+    border-radius:7rpx; 
+}
+.input_password{
+    border:5rpx solid #d8dee2;
+    height: 50rpx;
+    padding: 5rpx;
+    border-radius: 7rpx;
+}
+.describe{
+    /*border: 1px solid #d8dee2;*/
+    display: block;
+    padding: 20rpx;
+    color: #333;
+    font-size: 35rpx;
+}
+.confirm{
+    margin-top: 40rpx;
+    height: 84rpx; 
+    text-align: center;
+    font-size: 35rpx;
+    background-color: #333;
+    margin-bottom: 20rpx;
+    color: #f9f9f9;
+}

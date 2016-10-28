@@ -1,0 +1,14 @@
+<view class="container">
+    <view class="icon"></view>
+    <view class="sign_in">
+        <view class="username">
+            <text class="describe">Username/email address</text>
+            <input type="text" class="input_username"/>
+        </view>
+        <view class="password">
+            <text class="describe">Password</text>
+            <input type="password" class="input_password"/>
+        </view>  
+        <button class="confirm">Sign in</button>      
+    </view>
+<view>
